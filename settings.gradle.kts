@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Fournisseur_layout"
+rootProject.name = "Market"
 include(":app")
  
